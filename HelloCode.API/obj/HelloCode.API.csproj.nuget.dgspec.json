@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Trainings\\VMware\\Working with Docker Compose\\Working-with-Docker-Compose\\HelloCode.API\\HelloCode.API.csproj": {}
+    "C:\\Trainings\\VMware\\Getting Started with Containers\\Getting Started With Containers\\HelloCode.API\\HelloCode.API.csproj": {}
   },
   "projects": {
-    "C:\\Trainings\\VMware\\Working with Docker Compose\\Working-with-Docker-Compose\\HelloCode.API\\HelloCode.API.csproj": {
+    "C:\\Trainings\\VMware\\Getting Started with Containers\\Getting Started With Containers\\HelloCode.API\\HelloCode.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Trainings\\VMware\\Working with Docker Compose\\Working-with-Docker-Compose\\HelloCode.API\\HelloCode.API.csproj",
+        "projectUniqueName": "C:\\Trainings\\VMware\\Getting Started with Containers\\Getting Started With Containers\\HelloCode.API\\HelloCode.API.csproj",
         "projectName": "HelloCode.API",
-        "projectPath": "C:\\Trainings\\VMware\\Working with Docker Compose\\Working-with-Docker-Compose\\HelloCode.API\\HelloCode.API.csproj",
+        "projectPath": "C:\\Trainings\\VMware\\Getting Started with Containers\\Getting Started With Containers\\HelloCode.API\\HelloCode.API.csproj",
         "packagesPath": "C:\\Users\\adminuser\\.nuget\\packages\\",
-        "outputPath": "C:\\Trainings\\VMware\\Working with Docker Compose\\Working-with-Docker-Compose\\HelloCode.API\\obj\\",
+        "outputPath": "C:\\Trainings\\VMware\\Getting Started with Containers\\Getting Started With Containers\\HelloCode.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\adminuser\\AppData\\Roaming\\NuGet\\NuGet.Config",

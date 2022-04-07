@@ -27,3 +27,32 @@ C:\Trainings\VMware\Working with Docker Compose\Working-with-Docker-Compose\Hell
 C:\Trainings\VMware\Working with Docker Compose\Working-with-Docker-Compose\HelloCode.API\obj\Debug\net5.0\ref\HelloCode.API.dll
 C:\Trainings\VMware\Working with Docker Compose\Working-with-Docker-Compose\HelloCode.API\obj\Debug\net5.0\HelloCode.API.pdb
 C:\Trainings\VMware\Working with Docker Compose\Working-with-Docker-Compose\HelloCode.API\obj\Debug\net5.0\HelloCode.API.genruntimeconfig.cache
+C:\Trainings\VMware\Getting Started with Containers\Getting Started With Containers\HelloCode.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Trainings\VMware\Getting Started with Containers\Getting Started With Containers\HelloCode.API\bin\Debug\net5.0\appsettings.json
+C:\Trainings\VMware\Getting Started with Containers\Getting Started With Containers\HelloCode.API\bin\Debug\net5.0\HelloCode.API.exe
+C:\Trainings\VMware\Getting Started with Containers\Getting Started With Containers\HelloCode.API\bin\Debug\net5.0\HelloCode.API.deps.json
+C:\Trainings\VMware\Getting Started with Containers\Getting Started With Containers\HelloCode.API\bin\Debug\net5.0\HelloCode.API.runtimeconfig.json
+C:\Trainings\VMware\Getting Started with Containers\Getting Started With Containers\HelloCode.API\bin\Debug\net5.0\HelloCode.API.runtimeconfig.dev.json
+C:\Trainings\VMware\Getting Started with Containers\Getting Started With Containers\HelloCode.API\bin\Debug\net5.0\HelloCode.API.dll
+C:\Trainings\VMware\Getting Started with Containers\Getting Started With Containers\HelloCode.API\bin\Debug\net5.0\ref\HelloCode.API.dll
+C:\Trainings\VMware\Getting Started with Containers\Getting Started With Containers\HelloCode.API\bin\Debug\net5.0\HelloCode.API.pdb
+C:\Trainings\VMware\Getting Started with Containers\Getting Started With Containers\HelloCode.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Trainings\VMware\Getting Started with Containers\Getting Started With Containers\HelloCode.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Trainings\VMware\Getting Started with Containers\Getting Started With Containers\HelloCode.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Trainings\VMware\Getting Started with Containers\Getting Started With Containers\HelloCode.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Trainings\VMware\Getting Started with Containers\Getting Started With Containers\HelloCode.API\obj\Debug\net5.0\HelloCode.API.csproj.AssemblyReference.cache
+C:\Trainings\VMware\Getting Started with Containers\Getting Started With Containers\HelloCode.API\obj\Debug\net5.0\HelloCode.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trainings\VMware\Getting Started with Containers\Getting Started With Containers\HelloCode.API\obj\Debug\net5.0\HelloCode.API.AssemblyInfoInputs.cache
+C:\Trainings\VMware\Getting Started with Containers\Getting Started With Containers\HelloCode.API\obj\Debug\net5.0\HelloCode.API.AssemblyInfo.cs
+C:\Trainings\VMware\Getting Started with Containers\Getting Started With Containers\HelloCode.API\obj\Debug\net5.0\HelloCode.API.csproj.CoreCompileInputs.cache
+C:\Trainings\VMware\Getting Started with Containers\Getting Started With Containers\HelloCode.API\obj\Debug\net5.0\HelloCode.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Trainings\VMware\Getting Started with Containers\Getting Started With Containers\HelloCode.API\obj\Debug\net5.0\HelloCode.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Trainings\VMware\Getting Started with Containers\Getting Started With Containers\HelloCode.API\obj\Debug\net5.0\staticwebassets\HelloCode.API.StaticWebAssets.Manifest.cache
+C:\Trainings\VMware\Getting Started with Containers\Getting Started With Containers\HelloCode.API\obj\Debug\net5.0\staticwebassets\HelloCode.API.StaticWebAssets.xml
+C:\Trainings\VMware\Getting Started with Containers\Getting Started With Containers\HelloCode.API\obj\Debug\net5.0\scopedcss\bundle\HelloCode.API.styles.css
+C:\Trainings\VMware\Getting Started with Containers\Getting Started With Containers\HelloCode.API\obj\Debug\net5.0\HelloCode.API.RazorTargetAssemblyInfo.cache
+C:\Trainings\VMware\Getting Started with Containers\Getting Started With Containers\HelloCode.API\obj\Debug\net5.0\HelloCode.API.csproj.CopyComplete
+C:\Trainings\VMware\Getting Started with Containers\Getting Started With Containers\HelloCode.API\obj\Debug\net5.0\HelloCode.API.dll
+C:\Trainings\VMware\Getting Started with Containers\Getting Started With Containers\HelloCode.API\obj\Debug\net5.0\ref\HelloCode.API.dll
+C:\Trainings\VMware\Getting Started with Containers\Getting Started With Containers\HelloCode.API\obj\Debug\net5.0\HelloCode.API.pdb
+C:\Trainings\VMware\Getting Started with Containers\Getting Started With Containers\HelloCode.API\obj\Debug\net5.0\HelloCode.API.genruntimeconfig.cache
