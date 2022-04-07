@@ -24,6 +24,10 @@ dotnet new webapi -o HelloCode.API
 * Add a Dockerfile using the command palette of VS Code
 * Verify launch.json
 * Add the following json snippet to open swagger page by default
+```
+"dockerServerReadyAction": {
+                "uriFormat": "%s://localhost:%s/swagger"
+```
 * Run HelloCode.API using command palette or using the "docker run" command
 * Inspect the container image and container using Docker Extention and Docker Desktop
 
