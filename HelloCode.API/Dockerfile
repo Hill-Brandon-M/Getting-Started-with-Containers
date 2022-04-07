@@ -7,10 +7,10 @@ ENV ASPNETCORE_URLS=http://+:80
 
 FROM mcr.microsoft.com/dotnet/sdk:5.0-focal AS build
 WORKDIR /src
-COPY ["HelloCode.API/HelloCode.API.csproj", "HelloCode.API/"]
-RUN dotnet restore "HelloCode.API/HelloCode.API.csproj"
+COPY ["Getting Started With Containers/HelloCode.API/HelloCode.API.csproj", "Getting Started With Containers/HelloCode.API/"]
+RUN dotnet restore "Getting Started With Containers/HelloCode.API/HelloCode.API.csproj"
 COPY . .
-WORKDIR "/src/HelloCode.API"
+WORKDIR "/src/Getting Started With Containers/HelloCode.API"
 RUN dotnet build "HelloCode.API.csproj" -c Release -o /app/build
 
 FROM build AS publish
