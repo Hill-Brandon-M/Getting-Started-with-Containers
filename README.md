@@ -32,3 +32,45 @@ dotnet new webapi -o HelloCode.API
 * Inspect the container image and container using Docker Extention and Docker Desktop
 
 
+## Add support for NGINX ingress controller
+
+* Install using Helm
+```
+$Namespace = 'ingress-basic'
+
+helm repo add ingress-nginx https://kubernetes.github.io/ingress-nginx
+helm repo update
+
+helm install ingress-nginx ingress-nginx/ingress-nginx --create-namespace --namespace $Namespace
+```
+* Verify external IP
+```
+kubectl --namespace ingress-basic get services -o wide -w ingress-nginx-controller
+```
+
+* Add ingress.yml 
+```
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: hellocode-ingress
+  annotations:
+    kubernetes.io/ingress.class: nginx
+    nginx.ingress.kubernetes.io/backend-protocol: "HTTP"
+    nginx.ingress.kubernetes.io/use-regex: "true"
+    nginx.ingress.kubernetes.io/cors-allow-methods: '*'
+    nginx.ingress.kubernetes.io/cors-allow-origin: '*'
+    nginx.ingress.kubernetes.io/cors-allow-headers: access-token,Authorization,Content-Type,Postman-Token,cache-control
+spec:
+  rules:
+    - http:
+        paths:
+            - pathType: Prefix
+              backend:
+                service:
+                  name: hellocode-svc
+                  port:
+                    number: 80
+              path: /WeatherForecast/
+
+```
