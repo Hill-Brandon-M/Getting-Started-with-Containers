@@ -43,6 +43,9 @@ helm repo update
 
 helm install ingress-nginx ingress-nginx/ingress-nginx --create-namespace --namespace $Namespace
 ```
+
+
+-------------------Demo Starts Here----------------------------------------
 * Verify external IP
 ```
 kubectl --namespace ingress-basic get services -o wide -w ingress-nginx-controller
@@ -74,3 +77,8 @@ spec:
               path: /WeatherForecast/
 
 ```
+## Apply the below artifacts
+```
+kubectl apply -f deployment.yaml
+kubectl apply -f service.yaml
+kubectl apply -f ingress.yaml
