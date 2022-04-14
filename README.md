@@ -48,7 +48,7 @@ helm install ingress-nginx ingress-nginx/ingress-nginx --create-namespace --name
 -------------------Demo Starts Here----------------------------------------
 * Verify external IP
 ```
-kubectl --namespace ingress-basic get services -o wide -w ingress-nginx-controller
+kubectl --namespace ns-ingress get services -o wide -w ingress-nginx-controller
 ```
 
 * Add ingress.yml 
